@@ -9,24 +9,12 @@ SpringMVC集成gdal
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  https://www.cnblogs.com/haolb123/p/15565896.html
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  https://www.cnblogs.com/haolb123/p/15565896.html
 
 #### 参与贡献
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
 
-
-#### 码云特技
-
-111111111111111111111
